@@ -8,6 +8,7 @@ namespace CoffeeCampus
 			: base(options)
 		{
 
+
 		}
 
 		// Definer dine DbSets her
