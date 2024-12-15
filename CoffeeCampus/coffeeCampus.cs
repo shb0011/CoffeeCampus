@@ -7,6 +7,7 @@ namespace CoffeeCampus
 		public coffeeCampus(DbContextOptions<coffeeCampus> options)
 			: base(options)
 		{
+
 		}
 
 		// Definer dine DbSets her
